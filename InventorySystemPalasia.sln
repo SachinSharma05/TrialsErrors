@@ -1,0 +1,24 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "InventorySystemPalasia", "InventorySystemPalasia\InventorySystemPalasia.vbproj", "{AC48F264-CA61-4FE1-923B-C15381D66433}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "TrialsAndErrors", "TrialsAndErrors\TrialsAndErrors.vdproj", "{43EE24FF-5535-44F3-A7A0-B8C482521133}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AC48F264-CA61-4FE1-923B-C15381D66433}.Debug|x86.ActiveCfg = Debug|x86
+		{AC48F264-CA61-4FE1-923B-C15381D66433}.Debug|x86.Build.0 = Debug|x86
+		{AC48F264-CA61-4FE1-923B-C15381D66433}.Release|x86.ActiveCfg = Release|x86
+		{AC48F264-CA61-4FE1-923B-C15381D66433}.Release|x86.Build.0 = Release|x86
+		{43EE24FF-5535-44F3-A7A0-B8C482521133}.Debug|x86.ActiveCfg = Debug
+		{43EE24FF-5535-44F3-A7A0-B8C482521133}.Release|x86.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
